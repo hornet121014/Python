@@ -1,3 +1,6 @@
+import os
+os.system('cls')
+
 def setXstrTOint(x,str):
     list=str.split()
     list=list[:x]
