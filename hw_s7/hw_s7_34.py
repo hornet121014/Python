@@ -13,9 +13,9 @@
 Вывод:
 Парам пам-пам
 """
+
 import os
 os.system('cls')
-
 
 def ritm(str):
     result_list = []
@@ -31,7 +31,6 @@ def ritm(str):
     if len(set(result_list)) == 1:
         return print('Парам пам-пам')
     return print('Пам парам')
-
 
 str_1 = 'пара-ра-рам рам-пам-папам па-ра-па-дам'
 
