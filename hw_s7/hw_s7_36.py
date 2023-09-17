@@ -16,6 +16,7 @@ print_operation_table(lambda x, y: x * y)
 5 10 15 20 25 30
 6 12 18 24 30 36
 """
+
 import os
 os.system('cls')
 
